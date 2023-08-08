@@ -21,6 +21,15 @@ AES-128 consists of 10 rounds, each round, a number of operations is done on the
 
 ![Verification](https://github.com/yayaelbasha/AES-128/assets/83354302/ad8a9cc7-8401-4a88-abc9-b133dc3c8594)
 
+# Quartus Utilization
+
+![Quartus_Utilization](https://github.com/yayaelbasha/AES-128/assets/83354302/398da6af-b876-431e-8ebf-3bad3cf1b6d9)
+
+# Vivado Utilization
+
+![Vivado_Utilization](https://github.com/yayaelbasha/AES-128/assets/83354302/0b1dc1da-5ad6-4f5f-be20-71ec99c831bb)
+
+
 This AES-128 will be used in CTR mode, thus there is no need to implement the decryption hardware yet saving another 50% of area.
 
 
